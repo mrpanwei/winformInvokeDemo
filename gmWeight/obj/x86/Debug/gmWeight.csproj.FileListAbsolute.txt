@@ -1,0 +1,9 @@
+D:\WorkPlace\corporation\国贸称重\gmWeight\gmWeight\bin\Debug\gmWeight.exe
+D:\WorkPlace\corporation\国贸称重\gmWeight\gmWeight\bin\Debug\gmWeight.pdb
+D:\WorkPlace\corporation\国贸称重\gmWeight\gmWeight\obj\x86\Debug\gmWeight.Form1.resources
+D:\WorkPlace\corporation\国贸称重\gmWeight\gmWeight\obj\x86\Debug\gmWeight.Properties.Resources.resources
+D:\WorkPlace\corporation\国贸称重\gmWeight\gmWeight\obj\x86\Debug\gmWeight.csproj.GenerateResource.Cache
+D:\WorkPlace\corporation\国贸称重\gmWeight\gmWeight\obj\x86\Debug\gmWeight.exe
+D:\WorkPlace\corporation\国贸称重\gmWeight\gmWeight\obj\x86\Debug\gmWeight.pdb
+D:\WorkPlace\corporation\国贸称重\gmWeight\gmWeight\obj\x86\Debug\gmWeight.login.resources
+D:\WorkPlace\corporation\国贸称重\gmWeight\gmWeight\obj\x86\Debug\gmWeight.csprojResolveAssemblyReference.cache
