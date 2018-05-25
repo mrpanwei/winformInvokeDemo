@@ -20,7 +20,8 @@ namespace cj
         /// <summary>
         /// 数据库连接字符串
         /// </summary>
-        public static string connectionString = "Data Source=122.112.255.163;Initial Catalog=dtgm_shop2013_new;Persist Security Info=True;User ID=sa;Password=gMzx2018select123!@#;Pooling=true";
+        public static string connectionString = "";
+
         // Hashtable to store cached parameters
         private static Hashtable parmCache = Hashtable.Synchronized(new Hashtable());
 
